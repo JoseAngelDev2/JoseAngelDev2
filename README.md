@@ -1,20 +1,20 @@
-<!-- Banner superior -->
+<!-- Top banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Jose%20Angel&fontAlignY=35&color=gradient&customColorList=12&fontSize=48&desc=Bienvenido%20a%20mi%20perfil&descAlignY=55" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Jose%20Angel&fontAlignY=35&color=gradient&customColorList=12&fontSize=48&desc=Welcome%20to%20my%20profile&descAlignY=55" alt="Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Jose+Angel+%F0%9F%91%8B;Full-Stack+Developer+%7C+Software+Architect+%7C+Speaker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Jose+Angel+%F0%9F%91%8B;Full-Stack+Developer+%7C+Software+Architect+%7C+Speaker" alt="Typing SVG" />
 </p>
 
-## Sobre mí
+## About Me
 
-Estudiante de desarrollo de software en el Instituto Tecnológico de las Américas (ITLA), enfocado en el desarrollo full-stack y la arquitectura de software. Disfruto construir soluciones web completas, desde APIs y bases de datos hasta interfaces funcionales. Me interesa la ciberseguridad, los videojuegos y el cine. Siempre busco aprender, compartir conocimiento y llevar mis proyectos al siguiente nivel.
+Software development student at the Instituto Tecnológico de las Américas (ITLA), focused on full-stack development and software architecture. I enjoy building complete web solutions, from APIs and databases to functional interfaces. I am interested in cybersecurity, video games, and cinema. I am always eager to learn, share knowledge, and take my projects to the next level.
 
-## Tecnologías
+## Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,cs,dotnet,python,git,github,vscode" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,cs,dotnet,python,git,github,vscode" alt="Technologies" />
 </p>
 
 <p align="center">
@@ -35,36 +35,35 @@ Estudiante de desarrollo de software en el Instituto Tecnológico de las Améric
 
 </p>
 
-## Proyectos destacados
+## Featured Projects
 
-| Proyecto | Descripción | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| **HongoSto / YourRecipes** | Plataforma para compartir recetas. | Node.js, Express, Mongoose |
-| **Sistema de solicitudes internas** | Gestión de retiros, entregas e inventario. | Express, Mongoose |
-| **DocumentSchool** | Proyecto final de Programación III. | JavaScript, C#/.NET, Selenium, pytest |
-| **Automatización de Novedad de Activos** | Automatización de novedades de activos en Google Sheets. | Google Apps Script |
+| **HongoSto / YourRecipes** | A platform for sharing recipes. | Node.js, Express, Mongoose |
+| **Internal Request System** | Management of withdrawals, deliveries, and inventory. | Express, Mongoose |
+| **DocumentSchool** | Final project for Programming III. | JavaScript, C#/.NET, Selenium, pytest |
+| **Asset Changes Automation** | Google Apps Script automation for Google Sheets. | Google Apps Script |
 
-## Charlas y eventos
+## Talks and Events
 
-### ¡No dejes para mañana tu código de hoy!
+### Don't Leave Today's Code for Tomorrow!
 
-Cómo vencer la procrastinación en programación, presentada en el **Hola Mundo Day** de MoureDev ([holamundo.day](https://holamundo.day)).
+How to overcome programming procrastination, presented at MoureDev's **Hola Mundo Day** ([holamundo.day](https://holamundo.day)).
 
-[![Ver charla en YouTube](https://img.shields.io/badge/Ver_charla_en_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/0qA7wUzMwqg)
+[![Watch the talk on YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/0qA7wUzMwqg)
 
-## Estadísticas
+## Statistics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseAngelDev2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAngelDev2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
-## Contacto
+## Contact
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-[TU_LINK]-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([TU_LINK])
-- [![Correo](https://img.shields.io/badge/Correo-[TU_LINK]-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[TU_LINK])
-- [![Telegram](https://img.shields.io/badge/Telegram-[TU_LINK]-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)]([TU_LINK])
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-[TU_LINK]-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([TU_LINK])
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseangel-polanco-909996315/)
+- [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chrisswolter14@gmail.com)
+- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@Angels_xd)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12" alt="Footer" />
